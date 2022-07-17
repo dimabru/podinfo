@@ -5,4 +5,4 @@ resources:
   - deployment.yaml
   - service.yaml
 #   - mongodb-deployment.yaml
-#   - postgres-deployment.yaml
+  - postgres-deployment.yaml
