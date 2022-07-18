@@ -4,5 +4,5 @@ resources:
 #   - hpa.yaml
 #   - deployment.yaml
 #   - service.yaml
-  - mongodb-deployment.yaml
-#   - postgres-deployment.yaml
+#   - mongodb-deployment.yaml
+  - postgres-deployment.yaml
